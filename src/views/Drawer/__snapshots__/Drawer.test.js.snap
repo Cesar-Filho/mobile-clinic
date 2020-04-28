@@ -1,0 +1,94 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Drawer /> renderizar sem quebrar 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "display": "flex",
+        "flexBasis": 0,
+        "flexDirection": "column",
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "paddingBottom": 40,
+        "paddingLeft": 12,
+        "paddingRight": 24,
+        "paddingTop": 40,
+      },
+    ]
+  }
+>
+  <View
+    accessible={true}
+    isTVSelectable={true}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "borderLeftColor": "#733dbe",
+        "borderLeftWidth": 4,
+        "borderRadius": 5,
+        "elevation": 1,
+        "height": 40,
+        "justifyContent": "center",
+        "marginBottom": 10,
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#733dbe",
+            "fontSize": 16,
+            "marginLeft": 12,
+          },
+        ]
+      }
+    >
+      Hello! :3
+    </Text>
+  </View>
+  <View
+    accessible={true}
+    isTVSelectable={true}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "borderLeftColor": "#733dbe",
+        "borderLeftWidth": 4,
+        "borderRadius": 5,
+        "elevation": 1,
+        "height": 40,
+        "justifyContent": "center",
+        "marginBottom": 10,
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#733dbe",
+            "fontSize": 16,
+            "marginLeft": 12,
+          },
+        ]
+      }
+    >
+      Sair :: bye bye!
+    </Text>
+  </View>
+</View>
+`;
