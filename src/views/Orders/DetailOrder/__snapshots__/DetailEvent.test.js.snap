@@ -148,7 +148,7 @@ exports[`<DetailEvent /> renderizar sem quebrar 1`] = `
                 ]
               }
             >
-              Exposição de telas no museu de fotografia
+              Pedido de exame
             </Text>
             <Text
               style={
